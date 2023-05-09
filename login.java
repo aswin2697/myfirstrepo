@@ -3,7 +3,5 @@ kljaskldjfklasdjfkljaskldjfasd
 fadsklfjaksldjfklasjdf
 asdfasd
 fa
-s
-dfasdfkasjdfkljaskldfjklasdjfklasdjklfa
-sdfasdjflkasjdlkfjakljdfa;lkjdsf
-as;kldfjkal;sdjfkljadsklfj
+
+System.out.printl("This is my first java program for git hub");
