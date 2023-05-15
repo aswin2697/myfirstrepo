@@ -1,0 +1,131 @@
+[33mcommit c444fe517404e750f0b1329573d528be2ae6bcce[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest[m[33m, [m[1;32mmain[m[33m, [m[1;32maswin-dev[m[33m)[m
+Merge: 7fc7911 ed9a4d3
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:29:20 2023 +0530
+
+    conflict resolved
+
+[33mcommit ed9a4d3888b0c948c14892aa58a17f06107358de[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:28:05 2023 +0530
+
+    login modified by b
+
+[33mcommit 7fc791151918e1e6f7cfd61e0bebcac584f8a59c[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:27:25 2023 +0530
+
+    login modified from window a
+
+[33mcommit c1d3a8c7f08827d35199122eb689c8ede04b321c[m
+Merge: 1378d35 d00c85e
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:24:47 2023 +0530
+
+    conflict resoved
+
+[33mcommit d00c85ee14bc31f0cfb4c24a9005f2090c4c2533[m
+Author: kathir <kathir241109@gmail.com>
+Date:   Thu May 11 08:20:32 2023 +0530
+
+    have deleted some line and added a line
+
+[33mcommit 1378d350203b5c9519aa8dc94f0d0df643d67c5c[m
+Merge: 9253ac3 86b9fc8
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:17:56 2023 +0530
+
+    Merge branch 'main' of https://github.com/aswin2697/myfirstrepo
+
+[33mcommit 86b9fc896b7faf4cc05f0ab7c6cfa137bb4216a8[m
+Author: kathir <kathir241109@gmail.com>
+Date:   Thu May 11 08:17:10 2023 +0530
+
+    added my line
+
+[33mcommit 6e707b20ba3b5b389f361e2cc0089b802a45c2e4[m
+Merge: 32a490a eea1e6a
+Author: kathir <kathir241109@gmail.com>
+Date:   Thu May 11 08:15:14 2023 +0530
+
+    Merge branch 'main' of https://github.com/aswin2697/myfirstrepo
+
+[33mcommit 32a490ac1e752dee9d34a3f6a56a8e6f0e8f7e5f[m
+Author: kathir <kathir241109@gmail.com>
+Date:   Thu May 11 08:15:00 2023 +0530
+
+    kathir deleted some lines
+
+[33mcommit 9253ac39e57213d622b61351ddf1f998179e0de2[m[33m ([m[1;31morigin/santhosh-dev[m[33m, [m[1;32msanthosh-dev[m[33m)[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Thu May 11 08:13:42 2023 +0530
+
+    login file edited by ashwin
+
+[33mcommit eea1e6afb759c5a98319b13e4ca8c4de2470373c[m
+Merge: c175825 f2db589
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Wed May 10 08:46:35 2023 +0530
+
+    Merge branch 'main' of https://github.com/aswin2697/myfirstrepo
+
+[33mcommit f2db58964518f627754a33155cef88c8fdab697f[m
+Author: kathir <kathir241109@gmail.com>
+Date:   Wed May 10 08:45:49 2023 +0530
+
+    kathir's new commit
+
+[33mcommit c17582598752bca96f51bf0d5150bad6138e449c[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Wed May 10 08:44:36 2023 +0530
+
+    ashwin done commit first
+
+[33mcommit 7483c0bc7c88e183e001bac43541349a7d90d4e0[m
+Merge: 1839d4c 54b4daf
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Wed May 10 08:40:29 2023 +0530
+
+    Merge branch 'main' of https://github.com/aswin2697/myfirstrepo
+
+[33mcommit 1839d4c77615d52104887ddb7c1e24c3ca8787b2[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Wed May 10 08:37:18 2023 +0530
+
+    Arun.java module with some content
+
+[33mcommit 54b4dafcb5dfa21d6a8829f19316be463c475d39[m
+Author: kathir <kathir241109@gmail.com>
+Date:   Wed May 10 08:33:32 2023 +0530
+
+    it's kathir's file
+
+[33mcommit 2478553bb470546ab5525e8bf65ef2498d42f2b1[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Wed May 10 08:27:14 2023 +0530
+
+    Modified login module and added santhosh.java
+
+[33mcommit 5c1671c06f88d6ede5430ceb9920610bdf807dd3[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Tue May 9 12:10:17 2023 +0530
+
+    created a new file file2.txt
+
+[33mcommit 207c3ae9179842925a543ab467334f6f883096bb[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Tue May 9 11:19:41 2023 +0530
+
+    changed the content in login.java module code
+
+[33mcommit c2b0392b77ec77472b6271dfe52c8f731072371f[m
+Author: ashwin <aswinkumar2697@gmail.com>
+Date:   Tue May 9 08:43:03 2023 +0530
+
+    Created login.java module code
+
+[33mcommit 75647a939b497d566e0c83d909e949d24becd20a[m
+Author: Aswin Kumar <132866965+aswin2697@users.noreply.github.com>
+Date:   Tue May 9 08:24:17 2023 +0530
+
+    Initial commit
